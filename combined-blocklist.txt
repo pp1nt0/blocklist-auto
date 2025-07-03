@@ -1,5 +1,5 @@
 ! Title: Combined AdGuard Home Blocklist
-! Last Updated: 2025-07-03 09:59:21 GMT
+! Last Updated: 2025-07-03 10:20:28 GMT
 ! Expires: 1 day
 ! Homepage: https://github.com/O_TEU_UTILIZADOR/adguard-blocklists
 ! Version: 1.0
@@ -7355,6 +7355,7 @@
 ||bupatp.com^
 ||bupnjndj.com^
 ||buqkrzbrucz.com^
+||buqvtirjzs.com^
 ||buram.xyz^
 ||burbarkholpen.com^
 ||bureautrickle.com^
@@ -38269,6 +38270,7 @@
 ||wroahqavna.com^
 ||wronginside.pro^
 ||wrongwayfarer.com^
+||wrppoldzkxbqo.space^
 ||wrufer.com^
 ||wrywowser.shop^
 ||ws5ujgqkp.com^
