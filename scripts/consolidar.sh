@@ -18,6 +18,9 @@ LISTAS=(
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt"
 )
 
+# 🔧 Garante que a pasta existe
+mkdir -p blocklists
+
 > blocklists/consolidated.txt
 
 for url in "${LISTAS[@]}"; do
