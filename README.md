@@ -2,7 +2,7 @@
 
 Este repositório consolida automaticamente várias blocklists de anúncios, rastreadores e malware.
 
-A lista final é gerada diariamente via GitHub Actions e publicada como `blocklists/final.txt`.
+A lista final é gerada diariamente via GitHub Actions e publicada como `combined-blocklist.txt`.
 
 Inclui:
 - Remoção de duplicados
