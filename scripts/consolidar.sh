@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
+# 🔁 Vai para a raiz do projeto
+cd "$(dirname "$0")/.."
+
 echo "🔄 A descarregar blocklists..."
 
 LISTAS=(
@@ -18,14 +21,11 @@ LISTAS=(
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt"
 )
 
-# 🔧 Garante que a pasta existe
-mkdir -p blocklists
-
 > blocklists/consolidated.txt
 
 for url in "${LISTAS[@]}"; do
   echo "# Fonte: $url" >> blocklists/consolidated.txt
-  curl -s "$url" | grep '^||.*\^$' >> blocklists/consolidated.txt
+  curl -s "$url" | grep '^||.*\\^$' >> blocklists/consolidated.txt
 done
 
 echo "✅ Lista consolidada criada em blocklists/consolidated.txt"
