@@ -13,4 +13,4 @@ Adicionar URLS fidedignos a pasta /whitelists/personal-whitelist.txt
 
 Adicionar listas a bloquear ao ficheiro sources.txt
 
-Atualizações automáticas às 03:00 UTC.
+Atualizações automáticas às 00:00 UTC.
