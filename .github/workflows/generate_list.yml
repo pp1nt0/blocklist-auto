@@ -1,0 +1,37 @@
+# .github/workflows/generate_list.yml
+name: Generate Combined Blocklist
+
+on:
+  push:
+    branches:
+      - main # Ou 'master'
+    paths: # Opcional: só corre se estes ficheiros/pastas mudarem
+      - 'sources.txt'
+      - 'blocklists/custom/**'
+      - 'whitelists/**'
+      - 'generate_combined_list.py'
+  workflow_dispatch: # Permite executar manualmente o workflow
+  schedule:
+    - cron: '0 0 * * *' # Corre uma vez por dia à meia-noite UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: pip install requests
+    - name: Generate list
+      run: python generate_combined_list.py
+    - name: Commit and push if changes
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add combined-blocklist.txt
+        git commit -m "🤖 Auto-generated combined blocklist (downloaded and consolidated)" || echo "No changes to commit"
+        git push origin main # Ou 'master'
