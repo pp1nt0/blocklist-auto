@@ -1,5 +1,5 @@
 ! Title: Combined AdGuard Home Blocklist
-! Last Updated: 2025-07-03 10:28:11 GMT
+! Last Updated: 2025-07-03 10:39:23 GMT
 ! Expires: 1 day
 ! Homepage: https://github.com/O_TEU_UTILIZADOR/adguard-blocklists
 ! Version: 1.0
@@ -3807,7 +3807,6 @@
 ||apescausecrag.com^
 ||apex.go.sonobi.com^
 ||apglinks.net^
-||api-2-0.spot.im^
 ||api-a.op-mobile.opera.com^
 ||api-ad-callback.mobiuspace.net^
 ||api-analytics-bootstrap.metaps.com^
@@ -4023,9 +4022,7 @@
 ||api2.amplitude.com^
 ||api2.appsflyer.com^
 ||api2.batmobi.net^
-||api2.branch.io^
 ||api2.okanjo.com^
-||api2.poperblocker.com^
 ||api2.restartad.com^
 ||api3.siftscience.com^
 ||api4.1mobile.com^
@@ -4148,9 +4145,6 @@
 ||app-sjp.marketo.com^
 ||app-sjqe.marketo.com^
 ||app-sn01.marketo.com^
-||app.adjust.com^
-||app.adjust.net.in^
-||app.adjust.world^
 ||app.adroll.com^
 ||app.adywind.com^
 ||app.aflink.com^
@@ -7555,7 +7549,6 @@
 ||cdnweigh.net^
 ||cdnwidget.com^
 ||cdotrvjaiupk.com^
-||cdp.cloud.unity3d.com^
 ||cdp.in.treasuredata.com^
 ||cdrvrs.com^
 ||cds.connatix.com^
@@ -8640,7 +8633,6 @@
 ||config.safedk.com^
 ||config.samsungads.com^
 ||config.sdk.scopely.io^
-||config.uca.cloud.unity3d.com^
 ||config.unityads.unity3d.com^
 ||config2.mparticle.com^
 ||configure.rayjump.com^
@@ -13016,7 +13008,6 @@
 ||eu.criteo.net^
 ||eu01.nr-data.net^
 ||eu1-spiky.wzrkt.com^
-||eu1.wzrkt.com^
 ||euasync01.admantx.com^
 ||euauosx.xyz^
 ||eubobpzucyagl.online^
@@ -28436,7 +28427,6 @@
 ||saymedia.com^
 ||sb-stat1.com^
 ||sb.monetate.net^
-||sb.scorecardresearch.com^
 ||sb.voicefive.com^
 ||sb89347.com^
 ||sbbanner.com^
@@ -33223,7 +33213,6 @@
 ||us01.rayjump.com^
 ||us1-sdk.bluedot.io^
 ||us1-spiky.wzrkt.com^
-||us1.wzrkt.com^
 ||us4post.com^
 ||usainoad.net^
 ||usasync01.admantx.com^
