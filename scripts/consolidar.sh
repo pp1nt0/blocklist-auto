@@ -1,10 +1,12 @@
 #!/bin/bash
-set -e
+set -ex  # <- ex para debug (mostrar comandos e parar no erro)
 
-# 🔁 Vai para a raiz do projeto
 cd "$(dirname "$0")/.."
 
 echo "🔄 A descarregar blocklists..."
+
+mkdir -p blocklists
+> blocklists/consolidated.txt
 
 LISTAS=(
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt"
@@ -20,8 +22,6 @@ LISTAS=(
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt"
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt"
 )
-
-> blocklists/consolidated.txt
 
 for url in "${LISTAS[@]}"; do
   echo "# Fonte: $url" >> blocklists/consolidated.txt
