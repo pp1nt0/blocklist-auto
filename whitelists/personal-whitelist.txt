@@ -1,5 +1,5 @@
 ! Personal Whitelist (Cleaned, Homogenized, and Sorted)
-! Last Updated: 2025-07-03 11:28:21 GMT
+! Last Updated: 2025-07-03 12:02:31 GMT
 !
 0.client-channel.google.com
 1drv.com
@@ -82,6 +82,8 @@ d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dashboard.plex.tv
 dataplicity.com
+deathskull.eu
+deathskull.net
 def-vef.xboxlive.com
 delivery.vidible.tv
 dev.virtualearth.net
@@ -222,6 +224,8 @@ placeholdit.imgix.net
 play.google.com
 players.brightcove.net
 pool.ntp.org
+ppinto.eu
+ppinto.xyz
 premium-b.nexus-cdn.com
 pricelist.skype.com
 products.office.com
@@ -325,7 +329,3 @@ zws4-1.web.telegram.org
 zws4.web.telegram.org
 zws5-1.web.telegram.org
 zws5.web.telegram.org
-deathskull.eu
-deathskull.net
-ppinto.xyz
-ppinto.eu
