@@ -1,12 +1,15 @@
 #!/bin/bash
-set -ex  # <- ex para debug (mostrar comandos e parar no erro)
+set -ex
 
+# Vai para a raiz do projeto
 cd "$(dirname "$0")/.."
 
-echo "🔄 A descarregar blocklists..."
+echo "🔧 Verificando pasta blocklists..."
+mkdir -p blocklists || { echo "Erro a criar pasta blocklists"; exit 1; }
+touch blocklists/teste.txt || { echo "Erro a criar ficheiro teste.txt"; exit 1; }
+rm blocklists/teste.txt
 
-mkdir -p blocklists
-> blocklists/consolidated.txt
+echo "🔄 A descarregar blocklists..."
 
 LISTAS=(
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt"
@@ -23,9 +26,11 @@ LISTAS=(
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt"
 )
 
+> blocklists/consolidated.txt
+
 for url in "${LISTAS[@]}"; do
   echo "# Fonte: $url" >> blocklists/consolidated.txt
-  curl -s "$url" | grep '^||.*\\^$' >> blocklists/consolidated.txt
+  curl -s "$url" | grep '^||.*\\^$' >> blocklists/consolidated.txt || { echo "Erro no curl $url"; exit 1; }
 done
 
 echo "✅ Lista consolidada criada em blocklists/consolidated.txt"
