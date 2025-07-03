@@ -30,7 +30,8 @@ LISTAS=(
 
 for url in "${LISTAS[@]}"; do
   echo "# Fonte: $url" >> blocklists/consolidated.txt
-  curl -s "$url" | grep '^||.*\\^$' >> blocklists/consolidated.txt || { echo "Erro no curl $url"; exit 1; }
+  # Usar wget para baixar e filtrar conteúdo
+  wget -qO- "$url" | grep '^||.*\\^$' >> blocklists/consolidated.txt || { echo "Erro no wget $url"; exit 1; }
 done
 
 echo "✅ Lista consolidada criada em blocklists/consolidated.txt"
