@@ -1,0 +1,3 @@
+# Adiciona aqui domínios para não serem bloqueados
+exemplo.com
+sub.exemplo.com

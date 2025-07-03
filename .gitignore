@@ -1,0 +1,5 @@
+# Ignorar tudo por padrão na pasta blocklists
+blocklists/*
+!blocklists/whitelist.txt
+!blocklists/consolidated.txt
+!blocklists/final.txt
