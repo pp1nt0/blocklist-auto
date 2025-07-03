@@ -1,0 +1,36 @@
+name: Manual - Clean Personal Whitelist
+
+on:
+  workflow_dispatch:
+    # Este workflow pode ser acionado manualmente na aba 'Actions' do GitHub
+    inputs:
+      reason:
+        description: 'Motivo para a limpeza manual da Whitelist'
+        required: false
+        default: 'Manutenção de rotina'
+
+jobs:
+  clean_whitelist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (if any)
+        run: pip install requests # Apenas se o clean_and_normalize_domain precisar de requests, o que não é o caso aqui. Pode ser removido.
+
+      - name: Run Whitelist Cleaning Script
+        run: python check_whitelist_duplicates.py
+
+      - name: Commit and Push Changes (if any)
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add whitelists/personal-whitelist.txt
+          git commit -m "🤖 Cleaned personal-whitelist.txt (Manual Trigger: ${{ github.event.inputs.reason }})" || echo "No changes to commit"
+          git push origin main # Altera 'main' para a tua branch principal se for diferente
