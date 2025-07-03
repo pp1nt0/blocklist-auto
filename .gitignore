@@ -1,5 +1,3 @@
-# Ignorar tudo por padrão na pasta blocklists
-blocklists/*
-!blocklists/whitelist.txt
-!blocklists/consolidated.txt
-!blocklists/final.txt
+# .gitignore
+combined-blocklist.txt
+blocklists/downloaded/
