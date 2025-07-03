@@ -1,4 +1,2 @@
-https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-https://filters.adguard.com/extension/chromium/filters/2_optimized.txt
-https://easylist.to/easylist/easylist.txt
-# Podes adicionar URLs de outras listas que uses
+#Adicionar URLS de forma a fazer bypass a bloqueio. Aceita estilo ADguardHOME (@@) e normais. Exemplo:
+google.pt
