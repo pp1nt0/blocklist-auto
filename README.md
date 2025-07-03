@@ -13,6 +13,4 @@ Adicionar URLS fidedignos a pasta /whitelists/personal-whitelist.txt
 
 Adicionar listas a bloquear ao ficheiro sources.txt
 
-Nota: Poderão ser adicionadas whitelists também ao mesmo ficheiro. O script faz a separação no mesmo ficheiro.
-
 Atualizações automáticas às 03:00 UTC.
