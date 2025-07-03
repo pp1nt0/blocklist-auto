@@ -1,5 +1,5 @@
 ! Title: Combined AdGuard Home Blocklist
-! Last Updated: 2025-07-03 10:22:58 GMT
+! Last Updated: 2025-07-03 10:23:51 GMT
 ! Expires: 1 day
 ! Homepage: https://github.com/O_TEU_UTILIZADOR/adguard-blocklists
 ! Version: 1.0
