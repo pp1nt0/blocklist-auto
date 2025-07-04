@@ -6,6 +6,8 @@ import re
 from urllib.parse import urlparse
 from flask import Flask, request, jsonify, render_template
 
+app = Flask(__name__)
+
 # --- Funções de Ajuda (Copiadas do teu script clean_whitelist_duplicates.py) ---
 # Certifica-te que estas funções estão atualizadas com a tua última versão!
 def clean_and_normalize_domain(domain_line):
