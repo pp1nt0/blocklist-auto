@@ -38,8 +38,8 @@ def clean_and_normalize_domain(domain_line):
 # Para simplificar aqui, vamos ler do ambiente ou usar placeholders.
 # É ALTAMENTE RECOMENDADO USAR VARIÁVEIS DE AMBIENTE OU UM FICHEIRO .env
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
-REPO_OWNER = 'O_TEU_UTILIZADOR' # <--- SUBSTITUI ISTO PELO TEU UTILIZADOR DO GITHUB
-REPO_NAME = 'adguard-blocklists' # <--- SUBSTITUI ISTO PELO NOME DO TEU REPOSITÓRIO
+REPO_OWNER = 'D34thSkull' # <--- SUBSTITUI ISTO PELO TEU UTILIZADOR DO GITHUB
+REPO_NAME = 'blocklist-auto' # <--- SUBSTITUI ISTO PELO NOME DO TEU REPOSITÓRIO
 FILE_PATH = 'whitelists/personal-whitelist.txt'
 BRANCH = 'main' # <--- SUBSTITUI ISTO PELA TUA BRANCH PRINCIPAL (ex: 'main' ou 'master')
 
