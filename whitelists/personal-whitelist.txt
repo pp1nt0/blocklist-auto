@@ -1,6 +1,6 @@
 ! Personal Whitelist (Cleaned, Homogenized, and Sorted)
-! Last Updated: 2025-07-03 16:08:55 GMT
-!
+! Last Updated: 2025-07-04 10:49:32 GMT
+
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
@@ -277,6 +277,7 @@ telegra.ph
 telegram.me
 telegram.org
 telesco.pe
+teste.vom
 tg.dev
 themoviedb.com
 thetvdb.com
