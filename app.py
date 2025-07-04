@@ -5,7 +5,8 @@ import base64
 import re
 from urllib.parse import urlparse
 from flask import Flask, request, jsonify, render_template
-
+from dotenv import load_dotenv
+load_dotenv() # Carrega as variáveis do .env
 app = Flask(__name__)
 
 # --- Funções de Ajuda (Copiadas do teu script clean_whitelist_duplicates.py) ---
