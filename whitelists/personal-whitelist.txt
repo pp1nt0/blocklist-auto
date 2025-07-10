@@ -1,5 +1,5 @@
 ! Personal Whitelist (Cleaned, Homogenized, and Sorted)
-! Last Updated: 2025-07-10 11:02:49 GMT
+! Last Updated: 2025-07-10 11:03:00 GMT
 
 0.client-channel.google.com
 1drv.com
@@ -266,6 +266,7 @@ staging.plex.tv
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
 status.plex.tv
+steampowered.com
 t.co
 t.me
 t0.ssl.ak.dynamic.tiles.virtualearth.net
