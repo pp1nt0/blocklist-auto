@@ -1,5 +1,5 @@
 ! Personal Whitelist (Cleaned, Homogenized, and Sorted)
-! Last Updated: 2025-07-04 10:49:32 GMT
+! Last Updated: 2025-07-10 11:02:49 GMT
 
 0.client-channel.google.com
 1drv.com
@@ -70,6 +70,7 @@ connectivitycheck.gstatic.com
 continuum.dds.microsoft.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
+crash.steampowered.com
 creative.ak.fbcdn.net
 crl.globalsign.com
 crl3.digicert.com
