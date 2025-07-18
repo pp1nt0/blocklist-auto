@@ -9,7 +9,7 @@ Inclui:
 - Eliminação de subdomínios redundantes
 - Whitelist personalizável
 
-Adicionar URLS fidedignos a pasta /whitelists/personal-whitelist.txt , em alternativa foi criado site para adicionar urls: https://whitelist.deathskull.eu
+Adicionar URLS fidedignos a pasta /whitelists/personal-whitelist.txt
 
 Adicionar listas a bloquear ao ficheiro sources.txt
 
