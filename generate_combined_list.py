@@ -119,7 +119,7 @@ def generate_combined_list():
         f.write("! Title: Combined AdGuard Home Blocklist\n")
         f.write(f"! Last Updated: {time.strftime('%Y-%m-%d %H:%M:%S GMT', time.gmtime())}\n") # Usar gmtime para GMT
         f.write("! Expires: 1 day\n")
-        f.write("! Homepage: https://github.com/O_TEU_UTILIZADOR/adguard-blocklists\n")
+        f.write("! Homepage: https://github.com/pp1nt0/adguard-blocklists\n")
         f.write("! Version: 1.0\n")
         f.write("!\n")
 
