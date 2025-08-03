@@ -1,5 +1,5 @@
 ! Title: Combined AdGuard Home Blocklist
-! Last Updated: 2025-08-03 16:00:03 GMT
+! Last Updated: 2025-08-03 16:04:03 GMT
 ! Expires: 1 day
 ! Homepage: https://github.com/pp1nt0/adguard-blocklists
 ! Version: 1.0
@@ -40688,6 +40688,7 @@
 ||analytics.geico.com^
 ||analytics.gem.com^
 ||analytics.gemeinsamerleben.com^
+||analytics.gen.shield.monitoringservice.co^
 ||analytics.genesisdealerusa.com^
 ||analytics.genial.ly^
 ||analytics.genially.com^
@@ -45281,6 +45282,7 @@
 ||annonasarna.com^
 ||annonce.lequipement.fr^
 ||annoncer.solrodnyt.dk^
+||annons.dagen.se^
 ||annons.fiskesnack.com^
 ||annons.svenskjakt.se^
 ||annons.turist.se^
@@ -78664,6 +78666,7 @@
 ||consent.finanzen.net^
 ||consent.nitrocnct.com^
 ||consent.online.paodeacucar.com^
+||consent.podplay.com^
 ||consent.radiotimes.com^
 ||consent.scm-verlagsgruppe.de^
 ||consent.t-mobile.cz^
@@ -162616,6 +162619,7 @@
 ||m1.27com.com^
 ||m1.81312.com^
 ||m1.ad.10010.com^
+||m1.analytics.sitevision-cloud.se^
 ||m1.jintang114.org^
 ||m1.kahoxa.ru^
 ||m1.kuanff.com^
@@ -202304,6 +202308,7 @@
 ||pixel.pelmorex.com^
 ||pixel.petscreening.com^
 ||pixel.placed.com^
+||pixel.playbuzz.com^
 ||pixel.pmdigitalflow.com^
 ||pixel.poptok.com^
 ||pixel.prelytix.com^
@@ -252789,6 +252794,7 @@
 ||stats.plan.com^
 ||stats.planespotters.net^
 ||stats.planxti.com^
+||stats.playoncenter.com^
 ||stats.playrix.com^
 ||stats.playzone.in.ua^
 ||stats.plenest.com^
@@ -254457,6 +254463,7 @@
 ||stoxr.club^
 ||stp-sandbox-track.inside-graph.com.cdn.cloudflare.net^
 ||stp-tracker.inside-graph.com.cdn.cloudflare.net^
+||stp.gaffa.se^
 ||stp.gordijnen.nl^
 ||stp1.promoajinomoto.com.br^
 ||stp2-tracker.inside-graph.com.cdn.cloudflare.net^
@@ -279701,6 +279708,7 @@
 ||trckoja.com^
 ||trckotang.com^
 ||trckppav.com^
+||trckr*.nordiskemedier.dk^
 ||trckr.nordiskemedier.dk^
 ||trckr1.nordiskemedier.dk^
 ||trckrry.com^
@@ -285135,6 +285143,7 @@
 ||uepkcdjgp.com^
 ||uerbgnkas.com^
 ||ues.kicker.de^
+||ues.vk.se^
 ||uesl.net^
 ||uesocal.com^
 ||uestat.video.qiyi.com^
