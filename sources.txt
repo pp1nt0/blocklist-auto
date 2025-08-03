@@ -12,6 +12,6 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
 #https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
 #https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 #https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-https://easy-list-downloads.adblockplus.org/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Ad-blocking-list.txt
 # Podes adicionar URLs de outras listas que uses ou alterar as que estão já adicionadas
