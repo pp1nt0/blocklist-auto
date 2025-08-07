@@ -1,17 +1,25 @@
+# ===================================================================
+# 1. BASE ABRANGENTE (Cobre 90% de tudo: Anúncios, Tracking, Malware)
+# A lista OISD Full. É a sua principal ferramenta.
+# ===================================================================
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
+
+# ===================================================================
+# 2. SEGURANÇA EXTRA (Foco em ameaças ativas de Phishing/Fraude)
+# Adiciona uma camada de segurança especializada com baixa sobreposição.
+# ===================================================================
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
+
+# ===================================================================
+# 3. PRIVACIDADE MÁXIMA (Foco em Tracking agressivo)
+# A EasyPrivacy é a especialista em privacidade e uma referência.
+# ===================================================================
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+# ===================================================================
+# 4. COMPLEMENTO REGIONAL (Anúncios e "annoyances" em Portugal)
+# Apanha o conteúdo específico de sites portugueses que as listas
+# internacionais podem não apanhar.
+# ===================================================================
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
 # Podes adicionar URLs de outras listas que uses ou alterar as que estão já adicionadas
