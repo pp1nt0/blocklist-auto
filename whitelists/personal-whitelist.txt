@@ -331,3 +331,26 @@ zws4-1.web.telegram.org
 zws4.web.telegram.org
 zws5-1.web.telegram.org
 zws5.web.telegram.org
+mobile.events.data.microsoft.com
+m365.cloud.microsoft
+Server Host
+ad.ppinto.eu
+paulopinto.duckdns.org
+Trackers Torrent
+www.limetorrents.lol
+1337x.to
+kickass.ws
+www.torrentdownloads.pro
+tracker.opentrackr.org
+dht.transmissionbt.com
+bt.t-ru.org
+nyaa.si
+1337x.to
+publicbt.com
+openbittorrent.com
+imap.gmail.com
+www.google.com
+www.duckdns.org
+graph.facebook.com
+graph.instagram.com
+www.limetorrents.lol
