@@ -1,6 +1,3 @@
-! Personal Whitelist (Cleaned, Homogenized, and Sorted)
-! Last Updated: 2025-08-07 14:18:36 GMT
-!
 0.client-channel.google.com
 1337x.to
 1drv.com
