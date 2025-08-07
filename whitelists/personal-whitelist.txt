@@ -1,10 +1,12 @@
 ! Personal Whitelist (Cleaned, Homogenized, and Sorted)
-! Last Updated: 2025-08-03 16:05:55 GMT
+! Last Updated: 2025-08-07 14:18:36 GMT
 !
 0.client-channel.google.com
+1337x.to
 1drv.com
 2.android.pool.ntp.org
 accounts.google.com
+ad.ppinto.eu
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
@@ -38,6 +40,7 @@ b-graph-fallback.facebook.com
 b-graph.facebook.com
 brightcove.net
 browser-intake-datadoghq.com
+bt.t-ru.org
 c.s-microsoft.com
 calendar.google.com
 cdn.cloudflare.net
@@ -90,6 +93,7 @@ delivery.vidible.tv
 dev.virtualearth.net
 device.asuscloud.com
 device.auth.xboxlive.com
+dht.transmissionbt.com
 display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
@@ -104,6 +108,7 @@ download.visualstudio.microsoft.com
 drift.com
 driftt.com
 drive.google.com
+duckdns.org
 dynupdate.no-ip.com
 e.reddit.com
 ecn.dev.virtualearth.net
@@ -150,6 +155,7 @@ i.instagram.com
 i.ytimg.com
 i1.ytimg.com
 imagesak.secureserver.net
+imap.gmail.com
 img.vidible.tv
 imgix.net
 imgs.xkcd.com
@@ -161,6 +167,7 @@ intercom.io
 jquery.com
 jsdelivr.net
 keystone.mwbsys.com
+kickass.ws
 kws1-1.web.telegram.org
 kws1.web.telegram.org
 kws2-1.web.telegram.org
@@ -173,10 +180,12 @@ kws5-1.web.telegram.org
 kws5.web.telegram.org
 lastfm-img2.akamaized.net
 licensing.xboxlive.com
+limetorrents.lol
 live.com
 livepassdl.conviva.com
 login.live.com
 login.microsoftonline.com
+m365.cloud.microsoft
 mail.google.com
 manifest.googlevideo.com
 messenger.com
@@ -185,6 +194,7 @@ meta.plex.bz
 meta.plex.tv
 microsoftonline.com
 millenniumbcp.pt
+mobile.events.data.microsoft.com
 mqtt-mini.facebook.com
 msftconnecttest.com
 msftncsi.com
@@ -206,6 +216,7 @@ ns1.dropbox.com
 ns2.dropbox.com
 ntp.org
 ntp.pool.org
+nyaa.si
 o1.email.plex.tv
 o2.sg0.plex.tv
 ocsp.apple.com
@@ -217,7 +228,9 @@ office.net
 officeclient.microsoft.com
 om.cbsi.com
 onedrive.live.com
+openbittorrent.com
 outlook.live.com
+paulopinto.duckdns.org
 photos.google.com
 pings.conviva.com
 placehold.it
@@ -233,6 +246,7 @@ products.office.com
 proxy.plex.bz
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
+publicbt.com
 pubsub.plex.bz
 pubsub.plex.tv
 qcc.qualcomm.com
@@ -290,8 +304,10 @@ time.windows.com
 tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
+torrentdownloads.pro
 tracker.openbittorrent.com
 tracker.openbittorrent.com.lan
+tracker.opentrackr.org
 traffic.libsyn.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
@@ -331,26 +347,3 @@ zws4-1.web.telegram.org
 zws4.web.telegram.org
 zws5-1.web.telegram.org
 zws5.web.telegram.org
-mobile.events.data.microsoft.com
-m365.cloud.microsoft
-Server Host
-ad.ppinto.eu
-paulopinto.duckdns.org
-Trackers Torrent
-www.limetorrents.lol
-1337x.to
-kickass.ws
-www.torrentdownloads.pro
-tracker.opentrackr.org
-dht.transmissionbt.com
-bt.t-ru.org
-nyaa.si
-1337x.to
-publicbt.com
-openbittorrent.com
-imap.gmail.com
-www.google.com
-www.duckdns.org
-graph.facebook.com
-graph.instagram.com
-www.limetorrents.lol
