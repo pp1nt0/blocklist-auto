@@ -18,10 +18,6 @@ api.telegram.org
 api2.branch.io
 api2.poperblocker.com
 app-api.ted.com
-app-measurement.com
-app.adjust.com
-app.adjust.net.in
-app.adjust.world
 appleid.apple.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
@@ -36,7 +32,6 @@ ax.phobos.apple.com.edgesuite.net
 b-graph-fallback.facebook.com
 b-graph.facebook.com
 brightcove.net
-browser-intake-datadoghq.com
 bt.t-ru.org
 c.s-microsoft.com
 calendar.google.com
@@ -70,7 +65,6 @@ connectivitycheck.gstatic.com
 continuum.dds.microsoft.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
-crash.steampowered.com
 creative.ak.fbcdn.net
 crl.globalsign.com
 crl3.digicert.com
@@ -102,8 +96,6 @@ dns.msftncsi.com
 docs.google.com
 download.sonarr.tv
 download.visualstudio.microsoft.com
-drift.com
-driftt.com
 drive.google.com
 duckdns.org
 dynupdate.no-ip.com
@@ -114,7 +106,6 @@ eds.xboxlive.com
 eic.recommend.lgtvcommon.com
 eic.service.lgtvcommon.com
 emp.millenniumbcp.pt
-eu1.wzrkt.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 facebook.com
@@ -158,9 +149,7 @@ imgix.net
 imgs.xkcd.com
 incoming.telemetry.mozilla.org
 ind.millenniumbcp.pt
-insights-collector.gog.com
 instantmessaging-pa.googleapis.com
-intercom.io
 jquery.com
 jsdelivr.net
 keystone.mwbsys.com
@@ -191,7 +180,6 @@ meta.plex.bz
 meta.plex.tv
 microsoftonline.com
 millenniumbcp.pt
-mobile.events.data.microsoft.com
 mqtt-mini.facebook.com
 msftconnecttest.com
 msftncsi.com
@@ -263,11 +251,9 @@ s3.amazonaws.com
 sa.symcb.com
 safebrowse.googleapis.com
 samsungrm.net
-sb.scorecardresearch.com
 secure.avangate.com
 secure.brightcove.com
 secure.surveymonkey.com
-self.events.data.microsoft.com
 service.asuscloud.com
 services.sonarr.tv
 skyhook.sonarr.tv
@@ -277,7 +263,6 @@ staging.plex.tv
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
 status.plex.tv
-steampowered.com
 t.co
 t.me
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -311,7 +296,6 @@ tvthemes.plexapp.com
 twimg.com
 ui.skype.com
 update.googleapis.com
-us1.wzrkt.com
 venus.web.telegram.org
 video-stats.l.google.com
 videos.vidible.tv
@@ -335,7 +319,6 @@ yt3.ggpht.com
 ytimg.com
 z-m-graph.facebook.com
 zee.cws.conviva.com
-zncgxzyissdby5eq5-santanderpt.siteintercept.qualtrics.com
 zws1-1.web.telegram.org
 zws1.web.telegram.org
 zws2-1.web.telegram.org
