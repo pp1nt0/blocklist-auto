@@ -1,30 +1,18 @@
-# Essenciais da Internet e SOs
+! Personal Whitelist (Cleaned, Homogenized, and Sorted)
+! Last Updated: 2025-08-08 08:38:18 GMT
+!
 akamaihd.net
 akamaized.net
 amazonaws.com
 apple.com
+apt.sonarr.tv
+asus.com
+asuscomm.com
 cdn.cloudflare.net
 cloudfront.net
 crl3.digicert.com
 crl4.digicert.com
 ctldl.windowsupdate.com
-googleapis.com
-google.com
-gstatic.com
-live.com
-microsoft.com
-msftconnecttest.com
-msftncsi.com
-ocsp.globalsign.com
-ocsp.pki.goog
-pool.ntp.org
-raw.githubusercontent.com
-time.windows.com
-
-# O seu Ecossistema de Serviços
-apt.sonarr.tv
-asus.com
-asuscomm.com
 deathskull.eu
 deathskull.net
 download.sonarr.tv
@@ -33,17 +21,27 @@ dynupdate.no-ip.com
 forums.sonarr.tv
 github.com
 github.io
-limetorrents.lol # Torrent
+google.com
+googleapis.com
+gstatic.com
+live.com
 meta.plex.tv
+microsoft.com
+msftconnecttest.com
+msftncsi.com
 my.plexapp.com
 no-ip.com
 nordaccount.com
 nordcdn.com
 nordvpn.com
+ocsp.globalsign.com
+ocsp.pki.goog
 paulopinto.duckdns.org
 plex.tv
+pool.ntp.org
 ppinto.eu
 ppinto.xyz
+raw.githubusercontent.com
 services.sonarr.tv
 skyhook.sonarr.tv
 steampowered.com
@@ -51,3 +49,4 @@ t.me
 telegram.org
 themoviedb.com
 thetvdb.com
+time.windows.com
