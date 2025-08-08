@@ -1,5 +1,5 @@
 ! Title: Combined AdGuard Home Blocklist
-! Last Updated: 2025-08-08 02:27:20 GMT
+! Last Updated: 2025-08-08 08:29:53 GMT
 ! Expires: 1 day
 ! Homepage: https://github.com/pp1nt0/adguard-blocklists
 ! Version: 1.0
@@ -44991,6 +44991,7 @@
 ||api-engage-us.sitecorecloud.io^
 ||api-engagement.bloomreach.com^
 ||api-erica.pannon.hu^
+||api-esp.piano.io^
 ||api-eu.mixpanel.com^
 ||api-eu.piano.io^
 ||api-event-tracking.picpay.com^
@@ -49435,6 +49436,7 @@
 ||assets.teradata.com^
 ||assets.ti-media.net^
 ||assets.videowise.com^
+||assets.zubitracker.io^
 ||assets1.exgfnetwork.com^
 ||assets1.suncorp.com.au^
 ||assets2-analytics.scinfradev.com^
@@ -67693,6 +67695,7 @@
 ||cdn3.hentok.com^
 ||cdn3.info^
 ||cdn3.net^
+||cdn3.optimizely.com^
 ||cdn3.r34comix.com^
 ||cdn3.vectorstock.com^
 ||cdn3reference.com^
@@ -67811,6 +67814,7 @@
 ||cdp.asia^
 ||cdp.cifinancial.com^
 ||cdp.cloud.unity.cn^
+||cdp.cloud.unity3d.com^
 ||cdp.vemt.com^
 ||cdp.yna.co.kr^
 ||cdp2.oral-b.co.kr^
@@ -76084,6 +76088,7 @@
 ||config.inmobi.com^
 ||config.samqaicongen.com^
 ||config.toto.zipoapps.com^
+||config.uca.cloud.unity3d.com^
 ||config001.cmpassport.com^
 ||config1.cmpassport.com^
 ||config2.cmpassport.com^
@@ -81475,6 +81480,7 @@
 ||cwpnnceaolies.global^
 ||cwqctcmhswrth.online^
 ||cwqljsecvr.com^
+||cws.conviva.com^
 ||cwsbrxarjnaav.space^
 ||cwt.citywire.info^
 ||cwtvembeds.com^
@@ -82685,6 +82691,7 @@
 ||d2c2pscv8ayc0e.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
 ||d2c7xlmseob604.cloudfront.net^
+||d2c8v52ll5s99u.cloudfront.net^
 ||d2camyomzxmxme.cloudfront.net^
 ||d2cek19ei8u7c4.cloudfront.net^
 ||d2cgumzzqhgmdu.cloudfront.net^
@@ -120209,6 +120216,8 @@
 ||grapepinot.com^
 ||grapeshot.co.uk^
 ||grapevinerealty.info^
+||graph-fallback.instagram.com^
+||graph.instagram.com^
 ||graphbi.com^
 ||grapheffect.com^
 ||graphgeeks.org^
@@ -184867,6 +184876,7 @@
 ||om.abritel.fr^
 ||om.aopa.org^
 ||om.burberry.com^
+||om.cbsi.com^
 ||om.churchofjesuschrist.org^
 ||om.citynews1130.com^
 ||om.cyberrentals.com^
@@ -193517,6 +193527,7 @@
 ||pingpon.net^
 ||pingpong.team^
 ||pingrequest.com^
+||pings.conviva.com^
 ||pings.vidpulse.com^
 ||pingstuffingstrap.com^
 ||pingsudu.com^
@@ -205088,6 +205099,7 @@
 ||r1-cdn.net^
 ||r1.ati.su^
 ||r1.autobild.de^
+||r1.ddlnk.net^
 ||r1.visualwebsiteoptimizer.com^
 ||r10.to^
 ||r1tech.net^
