@@ -22,4 +22,4 @@ https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # internacionais podem não apanhar.
 # ===================================================================
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
-# Podes adicionar URLs de outras listas que uses ou alterar as que estão já adicionadas
+https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese.txt
