@@ -1,8 +1,4 @@
-amazonaws.com
-apple.com
 apt.sonarr.tv
-cdn.cloudflare.net
-cloudfront.net
 crl3.digicert.com
 crl4.digicert.com
 ctldl.windowsupdate.com
@@ -10,13 +6,10 @@ download.sonarr.tv
 duckdns.org
 dynupdate.no-ip.com
 forums.sonarr.tv
-github.com
-github.io
 googleapis.com
 gstatic.com
 live.com
 meta.plex.tv
-microsoft.com
 msftconnecttest.com
 msftncsi.com
 my.plexapp.com
@@ -28,7 +21,6 @@ pool.ntp.org
 raw.githubusercontent.com
 services.sonarr.tv
 skyhook.sonarr.tv
-steampowered.com
 t.me
 telegram.org
 themoviedb.com
