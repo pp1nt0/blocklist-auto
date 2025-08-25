@@ -23,3 +23,4 @@ telegram.org
 themoviedb.com
 thetvdb.com
 time.windows.com
+eu-mobile.events.data.microsoft.com
