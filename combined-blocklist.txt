@@ -1,5 +1,5 @@
 ! Title: Combined AdGuard Home Blocklist
-! Last Updated: 2025-08-25 07:51:43 GMT
+! Last Updated: 2025-08-25 07:55:29 GMT
 ! Expires: 1 day
 ! Homepage: https://github.com/pp1nt0/adguard-blocklists
 ! Version: 1.0
@@ -107929,6 +107929,7 @@
 ||eu-ic3.events.data.microsoft.com^
 ||eu-metrics.okg.com^
 ||eu-metrics.userguiding.com^
+||eu-mobile.events.data.microsoft.com^
 ||eu-office.events.data.microsoft.com^
 ||eu-onrt-stsdk.vivoglobal.com^
 ||eu-ort-stsdk.vivoglobal.com^
