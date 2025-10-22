@@ -1,5 +1,5 @@
 ! Personal Whitelist (Cleaned, Homogenized, and Sorted)
-! Last Updated: 2025-09-16 15:40:44 GMT
+! Last Updated: 2025-10-22 13:15:41 GMT
 !
 apt.sonarr.tv
 crl3.digicert.com
