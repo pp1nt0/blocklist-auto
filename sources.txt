@@ -1,25 +1,28 @@
 # ===================================================================
 # 1. BASE ABRANGENTE (Cobre 90% de tudo: Anúncios, Tracking, Malware)
-# A lista OISD Full. É a sua principal ferramenta.
+# OISD Full (AdGuard ID: 51)
 # ===================================================================
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt
 
 # ===================================================================
-# 2. SEGURANÇA EXTRA (Foco em ameaças ativas de Phishing/Fraude)
-# Adiciona uma camada de segurança especializada com baixa sobreposição.
+# 2. SEGURANÇA EXTRA (Bloqueia mineração de criptomoedas)
+# NoCoin Filter List (AdGuard ID: 61)
 # ===================================================================
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
 
 # ===================================================================
 # 3. PRIVACIDADE MÁXIMA (Foco em Tracking agressivo)
-# A EasyPrivacy é a especialista em privacidade e uma referência.
+# EasyPrivacy (A referência em privacidade)
 # ===================================================================
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # ===================================================================
 # 4. COMPLEMENTO REGIONAL (Anúncios e "annoyances" em Portugal)
-# Apanha o conteúdo específico de sites portugueses que as listas
-# internacionais podem não apanhar.
+# EasyList Portuguese
 # ===================================================================
-https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
 https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese.txt
+# ===================================================================
+# 5. [OPCIONAL] FILTRO DE "ANNOYANCES" (Remove pop-ups, avisos de cookies, etc.)
+# AdGuard Annoyances filter (AdGuard ID: 14)
+# ===================================================================
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
