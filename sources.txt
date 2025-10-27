@@ -1,28 +1,43 @@
 # ===================================================================
-# 1. BASE ABRANGENTE (Cobre 90% de tudo: Anúncios, Tracking, Malware)
-# OISD Full (AdGuard ID: 51)
+# GESTÃO DA BLOCKLIST: Conjunto de fontes para o REPOSITÓRIO blocklist-auto
+# Data da Composição: 27/10/2025
 # ===================================================================
+
+# -------------------------------------------------------------------
+# 1. BASE E PRIVACIDADE ESSENCIAL (As listas mais importantes)
+# -------------------------------------------------------------------
+# OISD Full: A lista mais equilibrada. Cobre a maior parte de Adwares, Malwares, e Tracking.
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt
 
-# ===================================================================
-# 2. SEGURANÇA EXTRA (Bloqueia mineração de criptomoedas)
-# NoCoin Filter List (AdGuard ID: 61)
-# ===================================================================
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-
-# ===================================================================
-# 3. PRIVACIDADE MÁXIMA (Foco em Tracking agressivo)
-# EasyPrivacy (A referência em privacidade)
-# ===================================================================
+# EasyPrivacy: Essencial para apanhar rastreadores mais agressivos.
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
-# ===================================================================
-# 4. COMPLEMENTO REGIONAL (Anúncios e "annoyances" em Portugal)
-# EasyList Portuguese
-# ===================================================================
-https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese.txt
-# ===================================================================
-# 5. [OPCIONAL] FILTRO DE "ANNOYANCES" (Remove pop-ups, avisos de cookies, etc.)
-# AdGuard Annoyances filter (AdGuard ID: 14)
-# ===================================================================
+# -------------------------------------------------------------------
+# 2. SEGURANÇA AVANÇADA E MALWARE (Proteção contra ameaças ativas)
+# -------------------------------------------------------------------
+# HaGeZi Multi: Uma das melhores listas agregadas. Aumenta a proteção contra Phishing, Scams e Malware.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
+
+# URLhaus Filter: Focada em domínios de Malware e Phishing que são muito recentes e dinâmicos.
+https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
+
+# NoCoin Filter List: Proteção contra Cryptojacking (mineração de criptomoedas no browser).
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
+
+# -------------------------------------------------------------------
+# 3. EXPERIÊNCIA DE UTILIZADOR E REGIONAL (Remoção de "Lixo")
+# -------------------------------------------------------------------
+# AdGuard Annoyances: Remove pop-ups de cookies, pedidos de subscrição, e outros elementos irritantes.
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
+
+# EasyList Portuguese: Lista regional para apanhar anúncios específicos em sites Portugueses/Brasileiros.
+https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese.txt
+
+# -------------------------------------------------------------------
+# 4. TELEMETRIA E DISPOSITIVOS (Controlo de Dados de OS e TVs)
+# -------------------------------------------------------------------
+# WindowsSpyBlocker - Hosts spy rules: Bloqueia a telemetria do Windows. (Pode causar problemas em algumas apps MS).
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+# Smart TV Blocklist: Bloqueia a comunicação de tracking de Smart TVs (Samsung, LG, etc.).
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
