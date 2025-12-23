@@ -29,4 +29,4 @@ telegram.org
 themoviedb.com
 thetvdb.com
 time.windows.com
-js-cdn.dynatrace.com
+p.typekit.net
