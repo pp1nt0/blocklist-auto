@@ -27,9 +27,11 @@ themoviedb.com
 thetvdb.com
 time.windows.com
 p.typekit.net
-ic3.events.data.microsoft.com
-teams.events.data.microsoft.com
-eu-teams.events.data.microsoft.com
-eu-mobile.events.data.microsoft.com
-ingest.appcenter.ms
+teams.microsoft.com
+skype.com
+skypeassets.com
+microsoftonline.com
 events.data.microsoft.com
+sentry.io
+dc.services.visualstudio.com
+ingest.appcenter.ms
