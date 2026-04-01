@@ -27,3 +27,9 @@ themoviedb.com
 thetvdb.com
 time.windows.com
 p.typekit.net
+ic3.events.data.microsoft.com
+teams.events.data.microsoft.com
+eu-teams.events.data.microsoft.com
+eu-mobile.events.data.microsoft.com
+ingest.appcenter.ms
+events.data.microsoft.com
