@@ -1,3 +1,4 @@
+api.readarr.com
 apt.sonarr.tv
 crl3.digicert.com
 crl4.digicert.com
