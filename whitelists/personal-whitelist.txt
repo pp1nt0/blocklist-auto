@@ -1,4 +1,3 @@
-microsoft.com
 api.readarr.com
 apt.sonarr.tv
 crl3.digicert.com
@@ -10,7 +9,7 @@ dynupdate.no-ip.com
 forums.sonarr.tv
 googleapis.com
 gstatic.com
-live.com
+*live.com
 meta.plex.tv
 msftconnecttest.com
 msftncsi.com
@@ -30,10 +29,10 @@ thetvdb.com
 time.windows.com
 p.typekit.net
 teams.microsoft.com
-skype.com
+*skype.com
 skypeassets.com
-microsoftonline.com
-events.data.microsoft.com
-sentry.io
-dc.services.visualstudio.com
-ingest.appcenter.ms
+*microsoftonline.com
+*events.data.microsoft.com
+*sentry.io
+*dc.services.visualstudio.com
+*ingest.appcenter.ms
