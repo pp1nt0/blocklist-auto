@@ -1,3 +1,4 @@
+microsoft.com
 api.readarr.com
 apt.sonarr.tv
 crl3.digicert.com
