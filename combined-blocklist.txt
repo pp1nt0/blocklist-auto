@@ -1,5 +1,5 @@
 ! Title: Combined AdGuard Home Blocklist
-! Last Updated: 2026-04-13 14:26:57 GMT
+! Last Updated: 2026-04-13 18:37:42 GMT
 ! Expires: 1 day
 ! Homepage: https://github.com/pp1nt0/adguard-blocklists
 ! Version: 1.0
@@ -103548,6 +103548,7 @@
 ||dc.repsol.com^
 ||dc.repsol.es^
 ||dc.schibsted.io^
+||dc.services.visualstudio.com^
 ||dc.stenaline.co.uk^
 ||dc.stenaline.com^
 ||dc.stenaline.cz^
@@ -153337,6 +153338,7 @@
 ||ingest-data-afra.snappfood.dev^
 ||ingest-lr.com^
 ||ingest.analytics.nation.dev^
+||ingest.appcenter.ms^
 ||ingest.coincodex.com^
 ||ingest.crash.vault-tec.systems^
 ||ingest.databuckets.com^
@@ -230843,6 +230845,7 @@
 ||sentry.internal.tripleten.com^
 ||sentry.interpals.net^
 ||sentry.intservers.net^
+||sentry.io^
 ||sentry.iobroker.net^
 ||sentry.iomedia.ch^
 ||sentry.ionos.com^
