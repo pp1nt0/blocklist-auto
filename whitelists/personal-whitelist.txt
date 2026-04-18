@@ -1,3 +1,5 @@
+unagi-eu-south-2.amazon.com
+fls-eu.amazon.com
 api.readarr.com
 apt.sonarr.tv
 crl3.digicert.com
