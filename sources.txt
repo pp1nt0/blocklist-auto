@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistpor
 # 4. TELEMETRIA E DISPOSITIVOS (Controlo de Dados de OS e TVs)
 # -------------------------------------------------------------------
 # WindowsSpyBlocker - Hosts spy rules: Bloqueia a telemetria do Windows. (Pode causar problemas em algumas apps MS).
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+# https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 # Smart TV Blocklist: Bloqueia a comunicação de tracking de Smart TVs (Samsung, LG, etc.).
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
