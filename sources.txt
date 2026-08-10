@@ -41,6 +41,3 @@ https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistpor
 
 # Smart TV Blocklist: Bloqueia a comunicação de tracking de Smart TVs (Samsung, LG, etc.).
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-
-
-https://raw.githubusercontent.com/Turtlecute33/adblocktest/master/src/d3host.adblock
