@@ -1,5 +1,5 @@
 ! Title: Combined AdGuard Home Blocklist
-! Last Updated: 2026-08-10 23:41:50 GMT
+! Last Updated: 2026-08-10 23:42:55 GMT
 ! Expires: 1 day
 ! Homepage: https://github.com/pp1nt0/adguard-blocklists
 ! Version: 1.0
@@ -31814,7 +31814,6 @@
 ||ad.domainfactory.de^
 ||ad.donanimhaber.com^
 ||ad.doorigo.co.kr^
-||ad.doubleclick.net^
 ||ad.douga-kan.com^
 ||ad.dreame.com^
 ||ad.dslr-forum.de^
@@ -33058,7 +33057,6 @@
 ||adc.ohmynews.com^
 ||adc.tripple.at^
 ||adc.xxxlshop.de^
-||adc3-launch.adcolony.com^
 ||adca.st^
 ||adcache-poc-qa.localnow.com^
 ||adcache.localnow.com^
@@ -33923,7 +33921,6 @@
 ||adm.funshion.com^
 ||adm.fwmrm.net^
 ||adm.gabrielk.me^
-||adm.hotjar.com^
 ||adm.leju.sina.com.cn^
 ||adm.linegee.net^
 ||adm.mmonster.co^
@@ -37109,7 +37106,6 @@
 ||ads3.gamecity.net^
 ||ads3.jpslot88royal.com^
 ||ads3.virtual-nights.com^
-||ads30.adcolony.com^
 ||ads4.canoe.ca^
 ||ads4.creativecirclemedia.com^
 ||ads4.gamecity.net^
@@ -37748,7 +37744,6 @@
 ||adserver.twitpic.com^
 ||adserver.ulm.itsbe.de^
 ||adserver.unitdsp.com^
-||adserver.unityads.unity3d.com^
 ||adserver.upb.ro^
 ||adserver.urbate.lat^
 ||adserver.uzdaily.uz^
@@ -37801,7 +37796,6 @@
 ||adserverus.info^
 ||adserverv2.mardos.com.gt^
 ||adserverxxl.de^
-||adservetx.media.net^
 ||adservice.aliexpress.com^
 ||adservice.ccra.com^
 ||adservice.cm.bloomberg.com^
@@ -39680,7 +39674,6 @@
 ||adx-vpc-winners-843061244.eu-west-1.elb.amazonaws.com^
 ||adx.36kr.com^
 ||adx.4strokemedia.com^
-||adx.ads.oppomobile.com^
 ||adx.adtaipo.com^
 ||adx.adxglobal.com^
 ||adx.alwatanvoice.com^
@@ -40575,7 +40568,6 @@
 ||afroandbodyshop.de^
 ||afrod-otz.com^
 ||afront.io^
-||afs.googlesyndication.com^
 ||afs.googleusercontent.com^
 ||afsanalytics.com^
 ||afsdktests.com^
@@ -52283,7 +52275,6 @@
 ||api.ad.logic-test.viasat.io^
 ||api.ad.logic.viasat.io^
 ||api.ad.rayoinnovations.com^
-||api.ad.xiaomi.com^
 ||api.ada-cloud.com^
 ||api.adapi.co.kr^
 ||api.addslice.com^
@@ -52331,7 +52322,6 @@
 ||api.browser.intl.miui.com^
 ||api.brs.intl.miui.com^
 ||api.bugsee.com^
-||api.bugsnag.com^
 ||api.bunzlaucastle.com^
 ||api.busybusy.io^
 ||api.bytegle.site^
@@ -52455,7 +52445,6 @@
 ||api.limbik.com^
 ||api.linkmine.co.kr^
 ||api.locallogic.co^
-||api.luckyorange.com^
 ||api.magmamobile.com^
 ||api.mailmojo.no^
 ||api.maropost.com^
@@ -52472,7 +52461,6 @@
 ||api.miui.security.xiaomi.com^
 ||api.monedata.io^
 ||api.moonanime.art^
-||api.mouseflow.com^
 ||api.mp.uc.cn^
 ||api.mtr.pub^
 ||api.muc.intl.miui.com^
@@ -53080,7 +53068,6 @@
 ||app.bruce.work^
 ||app.bucky.uwbadgers.com^
 ||app.budweisergardens.com^
-||app.bugsnag.com^
 ||app.buildd.co^
 ||app.bushnell.org^
 ||app.business.westernunion.com^
@@ -56895,7 +56882,6 @@
 ||aucqdk.autodoc.es^
 ||auctera.gotrackier.com^
 ||auction-release.mlpapi.com^
-||auction.unityads.unity3d.com^
 ||auctionads.com^
 ||auctionads.net^
 ||auctionnudge.com^
@@ -67902,7 +67888,6 @@
 ||browser.covatic.io^
 ||browser.miui.com^
 ||browser.pipe.aria.microsoft.com^
-||browser.sentry-cdn.com^
 ||browser.services^
 ||browser.vivo.com.cn^
 ||browser9182.web.fc2.com^
@@ -71311,7 +71296,6 @@
 ||careers-analytics.recruitee.com^
 ||careers.appsflyer.com^
 ||careers.coniferhealth.com^
-||careers.hotjar.com^
 ||careerseducations.net^
 ||careerunderstatement.com^
 ||carefree-bar.pro^
@@ -72570,7 +72554,6 @@
 ||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
 ||cdn-tags-adspotmediasoluc.netdna-ssl.com^
 ||cdn-te.e-goi.com^
-||cdn-test.mouseflow.com^
 ||cdn-todesk.com^
 ||cdn-track.hygraph.com^
 ||cdn-youdao.com^
@@ -72721,7 +72704,6 @@
 ||cdn.logbase.io^
 ||cdn.logrocket.com^
 ||cdn.ltba.io^
-||cdn.luckyorange.com^
 ||cdn.lustfulcomics.com^
 ||cdn.manga9.co^
 ||cdn.maropost.com^
@@ -72736,7 +72718,6 @@
 ||cdn.monsido.com^
 ||cdn.montiera.com^
 ||cdn.motor-junkie.com^
-||cdn.mouseflow.com^
 ||cdn.mplxtms.com^
 ||cdn.muut.com^
 ||cdn.myth.dev^
@@ -75372,7 +75353,6 @@
 ||ck-cdn.com^
 ||ck-ie.com^
 ||ck-kuallian.com.cn^
-||ck.ads.oppomobile.com^
 ||ck.am-qualitaetsmatratzen.de^
 ||ck.bastardzingaro.com^
 ||ck.connatix.com^
@@ -75593,7 +75573,6 @@
 ||clarity.rahul.gs^
 ||clarity.slidesai.io^
 ||clarity.zepp.com^
-||claritybt.freshmarketer.com^
 ||claritycheck.com^
 ||clarityid.top^
 ||claritystatic.azureedge.net^
@@ -76009,7 +75988,6 @@
 ||click.fool.com^
 ||click.gamersky.com^
 ||click.glamsquad.com^
-||click.googleanalytics.com^
 ||click.instacartemail.com^
 ||click.kataweb.it^
 ||click.lenovo.com^
@@ -80476,7 +80454,6 @@
 ||config.samqaicongen.com^
 ||config.toto.zipoapps.com^
 ||config.uca.cloud.unity3d.com^
-||config.unityads.unity3d.com^
 ||config001.cmpassport.com^
 ||config1.cmpassport.com^
 ||config2.cheatmyvegas.com^
@@ -83991,7 +83968,6 @@
 ||cs.go.kg^
 ||cs.hl.cn^
 ||cs.hot.net.il^
-||cs.luckyorange.net^
 ||cs.media.net^
 ||cs.moz.com^
 ||cs.myapoteka.com^
@@ -89797,7 +89773,6 @@
 ||data.acierto.com^
 ||data.adlermode.com^
 ||data.admin-updates.airmiles.ca^
-||data.ads.oppomobile.com^
 ||data.aem-sites-internal.adobe.com^
 ||data.ajo-demosystem4.adobedemosystem.com^
 ||data.ajo2emea.adobevlab.com^
@@ -90308,10 +90283,7 @@
 ||data.message.aircanada.com^
 ||data.metrics.app.lansweeper.com^
 ||data.minute.ly^
-||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
-||data.mistat.rus.xiaomi.com^
-||data.mistat.xiaomi.com^
 ||data.mkt.qb.intuit.com^
 ||data.mktg.nfl.com^
 ||data.mktg.subway.com^
@@ -106094,7 +106066,6 @@
 ||events.golubcapital.com^
 ||events.gonative.io^
 ||events.gumgum.com^
-||events.hotjar.io^
 ||events.httptoolkit.tech^
 ||events.iap.unity3d.com^
 ||events.icmi.com^
@@ -106198,7 +106169,6 @@
 ||events2.clips4sale.com^
 ||events2.freeskins.com^
 ||events2.www.edenfantasys.com^
-||events3alt.adcolony.com^
 ||eventsbritaingrocery.com^
 ||eventsbysarakyleen.com^
 ||eventservice.trafficmanager.net^
@@ -115318,7 +115288,6 @@
 ||fwtlvkgbmqqme.space^
 ||fwtmxfwijnpok.com^
 ||fwtnrczqrj.com^
-||fwtracks.freshmarketer.com^
 ||fwtrck.com^
 ||fwujkh7jw.com^
 ||fwunymlwmsebu.site^
@@ -123935,7 +123904,6 @@
 ||gtm.moneybird.nl^
 ||gtm.morellato.com^
 ||gtm.morugacacao.com^
-||gtm.mouseflow.com^
 ||gtm.mrkeyshop.com^
 ||gtm.ms-studiosmedia.com^
 ||gtm.multanpoint.com^
@@ -132644,7 +132612,6 @@
 ||identificationcardinalsteeple.com^
 ||identifierincludehungry.com^
 ||identifiersonerous.com^
-||identify.hotjar.com^
 ||identify.tankeai.com^
 ||identifycertainlybookie.com^
 ||identifyweek.com^
@@ -136935,7 +136902,6 @@
 ||insights.harvardbusiness.org^
 ||insights.hemnet.se^
 ||insights.hightechcampus.com^
-||insights.hotjar.com^
 ||insights.hugheseurope.com^
 ||insights.i-runway.com^
 ||insights.jabian.com^
@@ -157098,7 +157064,6 @@
 ||m.d11.io^
 ||m.dagym-manager.com^
 ||m.delltechnologies.com^
-||m.doubleclick.net^
 ||m.dq.ca^
 ||m.dq.com^
 ||m.edweek.org^
@@ -165573,7 +165538,6 @@
 ||mediav.com^
 ||mediavenus.com^
 ||mediavine.com^
-||mediavisor.doubleclick.net^
 ||mediawallah.com^
 ||mediawayss.com^
 ||mediaweaver.jp^
@@ -167421,7 +167385,6 @@
 ||metrics.dandh.com^
 ||metrics.darty.com^
 ||metrics.dashboard.unity3d.com^
-||metrics.data.hicloud.com^
 ||metrics.databasus.com^
 ||metrics.datapipe.com^
 ||metrics.datastudio.nl^
@@ -169258,7 +169221,6 @@
 ||metrics1.experian.com^
 ||metrics1.thankyou.com^
 ||metrics2.boomy.com^
-||metrics2.data.hicloud.com^
 ||metrics2.houselogic.com^
 ||metrics2.mayadelorez.com^
 ||metrics2.williamhill.com^
@@ -179651,7 +179613,6 @@
 ||notiftoday.online^
 ||notify-bugs-fra1.rtl.de^
 ||notify-bugsnag.docker.com^
-||notify.bugsnag.com^
 ||notify.eset.com^
 ||notify.hindustantimes.com^
 ||notify.pray.com^
@@ -181263,7 +181224,6 @@
 ||o2.hit.gemius.pl^
 ||o2.ikontwerpflyers.nl^
 ||o2.jyjyj.cn^
-||o2.mouseflow.com^
 ||o24o.ru^
 ||o28wg9kq8i.com^
 ||o2c7dks4.de^
@@ -188024,8 +187984,6 @@
 ||page9awry.com^
 ||pagead-googlehosted.l.google.com^
 ||pagead.l.google.com^
-||pagead2.googleadservices.com^
-||pagead2.googlesyndication.com^
 ||pageadgooglesyndication.com^
 ||pageantlethal.com^
 ||pagecheck-id-jf66sid.com^
@@ -188894,7 +188852,6 @@
 ||partner.xm.cz^
 ||partnerad.l.google.com^
 ||partnerads-test.ysm.yahoo.net^
-||partnerads.ysm.yahoo.com^
 ||partneradvantage.goog^
 ||partnerapp.kravein.com.au^
 ||partnerapp.urbanclap.com^
@@ -205535,7 +205492,6 @@
 ||realtime.bbcl.cl^
 ||realtime.co^
 ||realtime.email^
-||realtime.luckyorange.com^
 ||realtime.pa.highwebmedia.com^
 ||realtime.services.disqus.com^
 ||realtimeeventfeeds.viafoura.co^
@@ -215754,7 +215710,6 @@
 ||script.anura.io^
 ||script.boraware.kr^
 ||script.e-space.se^
-||script.hotjar.com^
 ||script.ifdo.co.kr^
 ||script.ioam.de^
 ||script.marquiz.ru^
@@ -216058,7 +216013,6 @@
 ||sdkclick.com^
 ||sdkconf.avlyun.com^
 ||sdkconfig.ad.intl.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.play.cp81.ott.cibntv.net^
 ||sdkconfig.pulse.schibsted.io^
 ||sdkconfig.video.qq.com^
@@ -221610,7 +221564,6 @@
 ||sessionnewspaperthirteenth.com^
 ||sessions-bugsnag.docker.com^
 ||sessions-telemetry-reporter.prod.settlement.nova.xyz^
-||sessions.bugsnag.com^
 ||sessions.bugsnag.com.fibertel.com^
 ||sessions.embeddables.com^
 ||sessionstack.com^
@@ -221654,7 +221607,6 @@
 ||setteehabitananhimae.cyou^
 ||setting-logncrash.cloud.toast.com^
 ||settings-analytics.hotstar.com^
-||settings.luckyorange.net^
 ||settings.ttwebview.com^
 ||settings2021.net^
 ||settings4learn.net^
@@ -239783,7 +239735,6 @@
 ||ssl.aafpfoundation.org^
 ||ssl.brandlicensing.eu^
 ||ssl.citgo.com^
-||ssl.google-analytics.com^
 ||ssl.graham-center.org^
 ||ssl.licensemag.com^
 ||ssl.linyiccic.com^
@@ -241954,7 +241905,6 @@
 ||static.addevweb.com^
 ||static.additionaldisplay.com^
 ||static.adlunar.com^
-||static.ads-twitter.com^
 ||static.ads.fantasanremo.com^
 ||static.ads.triptease.io.cdn.cloudflare.net^
 ||static.adzerk.net^
@@ -241990,7 +241940,6 @@
 ||static.diditaxi.com.cn^
 ||static.digidip.net^
 ||static.domitize.com^
-||static.doubleclick.net^
 ||static.dvidshub.net^
 ||static.dynaton.com.br^
 ||static.dynatondata.com^
@@ -242045,7 +241994,6 @@
 ||static.mannixmarketing.com^
 ||static.maticalm-bid.com^
 ||static.me-talk.ru^
-||static.media.net^
 ||static.meijiacun.com^
 ||static.miningweekly.com^
 ||static.mncametheya.org^
@@ -243339,7 +243287,6 @@
 ||stats.fundimmo.com^
 ||stats.fungus.computer^
 ||stats.futureweb.at^
-||stats.g.doubleclick.net^
 ||stats.g.doubleclick.net.iberostar.com^
 ||stats.galeb.org^
 ||stats.galleriacortona.com^
@@ -247238,7 +247185,6 @@
 ||surveymonkeyuser.com^
 ||surveyremovertool.com^
 ||surveys.executiveboard.com^
-||surveys.hotjar.com^
 ||surveyscout.com^
 ||surveyserver.nextcloud.com^
 ||surveyspaid.com^
@@ -256750,7 +256696,6 @@
 ||tools.mamotoja.pl^
 ||tools.mojegotowanie.pl^
 ||tools.mojpieknyogrod.pl^
-||tools.mouseflow.com^
 ||tools.national-geographic.pl^
 ||tools.net-parade.it^
 ||tools.niania.pl^
@@ -260905,7 +260850,6 @@
 ||tracking.rootinc.com^
 ||tracking.rti-inc.com^
 ||tracking.rtl.de^
-||tracking.rus.miui.com^
 ||tracking.s24.com^
 ||tracking.sabic.com^
 ||tracking.sailgp.com^
@@ -268334,7 +268278,6 @@
 ||upload-ad.long.tv^
 ||upload.euleriancdn.net^
 ||upload.kipa.co.il^
-||upload.luckyorange.net^
 ||upload4earn.org^
 ||uploadbox.com^
 ||uploadbuzz.cc^
@@ -275692,7 +275635,6 @@
 ||w1.askwai.com^
 ||w1.kskwai.com^
 ||w1.log9.info^
-||w1.luckyorange.com^
 ||w11.zhongkaohelp.com^
 ||w110.kcra.com^
 ||w138.redlandsdailyfacts.com^
@@ -276862,7 +276804,6 @@
 ||wd-edge.sharethis.com^
 ||wd-matomo.e-osca.com^
 ||wd-ret.io^
-||wd.adcolony.com^
 ||wd.classicseller.de^
 ||wd.hl.cn^
 ||wd.palmerymazama.com^
@@ -278157,7 +278098,6 @@
 ||webunder.ru^
 ||webuzz.me^
 ||webvdelpqtncq.website^
-||webview.unityads.unity3d.com^
 ||webviewerpro-cis1.com^
 ||webviewerpro-cis2.com^
 ||webvisor.com^
